@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/NativeScript/NativeScript/master/CHANGELOG.md",
+        "localPath": "releases/Cross-Platform Modules.md",
+        "header": "---\ntitle: Modules Changelog\ndescription: NativeScript Cross-Platform Modules Changelog\nposition: 4\nslug: modules-changelog\npublish: false\nprevious_url: /Changelogs/Cross-Platform Modules\n---\n\n"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/NativeScript/nativescript-cli/production/CHANGELOG.md",
+        "localPath": "releases/CLI.md",
+        "header": "---\ntitle: CLI Changelog\ndescription: NativeScript Command-Line Interface Changelog\nposition: 5\npublish: false\nslug: cli-changelog\nprevious_url: /Changelogs/CLI\n---\n\n"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/NativeScript/ios-runtime/master/CHANGELOG.md",
+        "localPath": "releases/iOS Runtime.md",
+        "header": "---\ntitle: iOS Runtime Changelog\ndescription: NativeScript iOS Runtime Changelog\nposition: 6\npublish: false\nslug: ios-changelog\nprevious_url: /Changelogs/iOS Runtime\n---\n\n"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/NativeScript/android-runtime/master/CHANGELOG.md",
+        "localPath": "releases/Android Runtime.md",
+        "header": "---\ntitle: Android Runtime Changelog\ndescription: NativeScript Android Runtime Changelog\nposition: 7\npublish: false\nslug: android-changelog\nprevious_url: /Changelogs/Android Runtime\n---\n\n"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/NativeScript/nativescript-cli/production/PLUGINS.md",
+        "localPath": "plugins/plugins.md",
+        "header": "---\n title: Infrastructure\n description: When the NativeScript modules do not provide the native device or platform capability that you need, you can use NativeScript plugins.\n position: 1\nslug: plugins-infrastructure\nprevious_url: /plugins\n ---\n\n"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/NativeScript/nativescript-cli/production/CocoaPods.md",
+        "localPath": "plugins/cocoapods.md",
+        "header": "---\n title: CocoaPods\n description: Wrap a Cocoapod as a plug in.\n position: 3\nslug: cocoapods\n---\n\n"
+    }
+]
